@@ -1,0 +1,38 @@
+[
+  {
+    "id": "46144292-9d3b-4bb0-a48c-7ce833403fb9",
+    "path": "/dashboard",
+    "text": "Dashboard",
+    "icon": "tachometer"
+  },
+  {
+    "id": "61ea1901-120d-46db-a85d-382783483492",
+    "path": "/tasks",
+    "text": "Tasks",
+    "icon": "list"
+  },
+  {
+    "id": "e6f21fe0-cd9d-4a85-9e7b-db466929b3ba",
+    "path": "/customers",
+    "text": "Customers",
+    "icon": "users"
+  },
+  {
+    "id": "88585cba-b04e-4248-8385-561d69bfbd73",
+    "path": "/vehicles",
+    "text": "Vehicles",
+    "icon": "car"
+  },
+  {
+    "id": "1048a541-2197-4b13-95bb-e7d5720ecd92",
+    "path": "/profile",
+    "text": "My profile",
+    "icon": "userSettings"
+  },
+  {
+    "id": "1048a541-2197-4b13-95bb-e7d5720ecd45",
+    "path": "/break-list",
+    "text": "Break List",
+    "icon": "userSettings"
+  }
+]

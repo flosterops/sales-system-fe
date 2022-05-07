@@ -1,0 +1,130 @@
+[
+  {
+    "id": "3dfb50d1-51c1-44c7-a796-b1a34c73ca8a",
+    "componentType": "TokenPage",
+    "route": "/token-page",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "7c55e0e4-6a41-42fa-8f56-44dee17ae227",
+    "componentType": "DashboardPage",
+    "route": "/dashboard",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "f4cb14c7-ef61-4f47-9b93-a2b01d5ef26f",
+    "componentType": "VehicleDetailsPage",
+    "route": "/vehicle/:id",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "b0298b79-fe51-496e-a159-8a86960ea3f7",
+    "componentType": "ProfilePage",
+    "route": "/profile",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "033d1d0f-f944-407f-92c0-af5f4e27ff0d",
+    "componentType": "CustomerDetailsPage",
+    "route": "/customer-details/:id",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "cbccc12c-7f57-4516-a62c-0f71a70f05ef",
+    "componentType": "TasksQueuePage",
+    "route": "/tasks",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "ebf24007-0ea1-4be7-a38a-be29113043a5",
+    "componentType": "VehiclesPage",
+    "route": "/vehicles",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "ebf24007-0ea1-4be7-a38a-be29113043a7",
+    "componentType": "FinishedTasksPage",
+    "route": "/finished-tasks",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "ae2b261f-1ef4-4547-9f99-e300d716328c",
+    "componentType": "TaskPage",
+    "route": "/task/:id",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "62af2d4b-b738-49d3-9125-d4bd52a5e13f",
+    "componentType": "AddOrderPage",
+    "route": "/add-order",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "'58fde270-de53-4170-a0cd-c96940bc9a14",
+    "componentType": "NotFoundPage",
+    "route": "/404NotFound",
+    "routeType": "public",
+    "exact": true,
+    "redirect": null
+  },
+  {
+    "id": "0890ba0f-cc6a-4e91-9ba0-544474c5db6f",
+    "componentType": "CustomersPage",
+    "route": "/customers",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "798a2037-08dd-4362-83f4-c52d6171bea7",
+    "componentType": "EnquiriesPage",
+    "route": "/enquiries",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "4debc925-e2b8-419d-aaab-625bcac222c0",
+    "componentType": "BreakListPage",
+    "route": "/break-list",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "4610e59f-7520-4221-bb02-2e0d217b5037",
+    "componentType": "SearchPage",
+    "route": "/search",
+    "routeType": "public",
+    "exact": false,
+    "redirect": null
+  },
+  {
+    "id": "4debc925-e2b8-419d-aaab-625bcac137c0",
+    "componentType": "DashboardPage",
+    "route": "*",
+    "routeType": "public",
+    "exact": false,
+    "redirect": "/dashboard"
+  }
+]
